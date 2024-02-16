@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nbaran42
 - 👀 I’m interested in .net
-- 🌱 I’m currently learning nest js
+- 🌱 I’m currently learning nodeJS
 - 💞️ I’m looking to collaborate on new jobs
 - 📫 How to reach me   necipbaran42@gmail.com
 
